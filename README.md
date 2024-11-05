@@ -6,7 +6,7 @@
 <br>→Insightful Dynamics Marketing：洞察力と動的なアプローチでマーケティングを行うという意味を込めました。
 <br>
 
-・URL：
+・URL：https://sakata-ponsuke.github.io/idm.co.jp/
 <br>
 
 ・目的：BtoBマーケティングサービスの効果を最大化し、企業の利益向上をサポートする。
