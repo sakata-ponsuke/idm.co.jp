@@ -50,6 +50,8 @@
 ・今後の課題：今後はデータ分析をもとに、UIデザインの改善を行っていきます。
 
 ## PC/SPの全体図
-<img src="img/01_pc.png" alt="代替テキスト" width="500"/>
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/ユーザー名/リポジトリ名/raw/main/画像ファイル名1.png" alt="代替テキスト1" width="300" style="margin-right: 10px;"/>
+  <img src="https://github.com/ユーザー名/リポジトリ名/raw/main/画像ファイル名2.png" alt="代替テキスト2" width="300"/>
+</div>
 
