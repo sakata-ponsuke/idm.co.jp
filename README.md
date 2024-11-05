@@ -50,7 +50,7 @@
 ・今後の課題：今後はデータ分析をもとに、UIデザインの改善を行っていきます。
 
 ## PC/SPの全体図
-![代替テキスト1](https://github.com/ユーザー名/リポジトリ名/raw/main/画像ファイル名1.png) ![代替テキスト2](https://github.com/ユーザー名/リポジトリ名/raw/main/画像ファイル名2.png)
+![01_pc](https://github.com/user-attachments/assets/00c08969-df33-42e8-a5aa-1b8e345f213d) ![代替テキスト2](https://github.com/ユーザー名/リポジトリ名/raw/main/画像ファイル名2.png)
 
 
 
