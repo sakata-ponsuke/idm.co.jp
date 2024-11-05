@@ -50,9 +50,9 @@
 ・今後の課題：今後はデータ分析をもとに、UIデザインの改善を行っていきます。
 
 ## PC/SPの全体図
-https://github.com/sakata-ponsuke/idm.co.jp/issues/4#issue-2636738678
+![image](https://github.com/sakata-ponsuke/idm.co.jp/issues/4#issue-2636738678)![image](https://github.com/sakata-ponsuke/idm.co.jp/issues/5#issue-2636741325)
 
-https://github.com/sakata-ponsuke/idm.co.jp/issues/5#issue-2636741325
+
 
 
 
