@@ -50,10 +50,6 @@
 ・今後の課題：今後はデータ分析をもとに、UIデザインの改善を行っていきます。
 
 ## PC/SPの全体図
-<img src="./img/01_pc.png" alt="01_pc画像" width="45%" style="display: inline-block;"/>
-<img src="./img/01_sp.png" alt="01_sp画像" width="45%" style="display: inline-block;"/>
-
-![01_pc画像](./img/01_pc.png)![01_sp画像](./img/01_sp.png)
 
 
 
