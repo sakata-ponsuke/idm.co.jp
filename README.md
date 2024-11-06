@@ -50,7 +50,7 @@
 ・今後の課題：今後はデータ分析をもとに、UIデザインの改善を行っていきます。
 
 ## PC/SPの全体図
-https://github.com/username/repository-name/blob/main/path/to/yourfile.pdf
+
 
 
 
